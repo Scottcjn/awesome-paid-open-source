@@ -62,6 +62,7 @@ Feel free to add links via PRs and file issues to start discussions.
 - [Freedom Sponsors](https://freedomsponsors.org)
 - [xs:code](https://xscode.com)
 - [Issuehunt](https://issuehunt.io)
+- [Awesome Agent Bounties](https://github.com/Scottcjn/awesome-agent-bounties) - Curated directory of open source bounty programs for developers and AI agents
 
 ### Open Source Grants
 
