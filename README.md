@@ -33,7 +33,7 @@ Feel free to add links via PRs and file issues to start discussions.
 - [Corporations and OSS do not mix](http://www.coglib.com/~icordasc/blog/2015/11/corporations-and-oss-do-not-mix.html) by Ian Cordasco
 - [More Money for Better Open-Source Software](http://marijnhaverbeke.nl/blog/sustainable-maintenance.html) by Marijn Haverbeke
 - [Marijn's Sustainable Open Source Fund](https://marijnhaverbeke.nl/fund) by Marijn Haverbeke
-- [The Perils of Mixing Open Source and Money](http://david.heinemeierhansson.com/2013/the-perils-of-mixing-open-source-and-money.html) by DHH
+- [The Perils of Mixing Open Source and Money](https://dhh.dk/2013/the-perils-of-mixing-open-source-and-money.html) by DHH
 - [The Ethics of Unpaid Labor and the OSS Community](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community#loveplay) by Ashe Dryden
 - [Commerce and Open Source](https://opensource.org/faq#category-commerce) by the Open Source Initiative
 - [Open Source Work](http://ryanbigg.com/2015/11/open-source-work) by Ryan Bigg
@@ -45,7 +45,7 @@ Feel free to add links via PRs and file issues to start discussions.
 - [How to Pay for Open Source: Seed Money](http://www.infoworld.com/article/2615419/open-source-software/how-to-pay-for-open-source.html) by InfoWorld
 - [Ways to Earn Money Through Open Source](http://programmers.stackexchange.com/a/100706) via StackExchange
 - [Open Source Infrastructure](https://storify.com/Lukasaoz/open-source-infrastructure-white-paper) by Cory Benfield
-- [The Unseen Labor Behind Our Digital Infrastructure](https://fordfoundcontent.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf) by Nadia Eghbal
+- [The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/learning/library/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) by Nadia Eghbal
 - [The Money In Open-Source Software](https://techcrunch.com/2016/02/09/the-money-in-open-source-software/) by Max Schireson at TechCrunch
 - [Who Sponsors Drupal Development?](http://buytaert.net/who-sponsors-drupal-development) by Dries Buytaert
 - [Equity For Effort: Code for Open-Source, Earn Startup Shares](https://focus.parabol.co/equity-for-effort-v2-0-7ca93e0a3968#.yxw9gkg20) by Parabol
