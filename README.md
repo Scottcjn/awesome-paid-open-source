@@ -38,7 +38,6 @@ Feel free to add links via PRs and file issues to start discussions.
 - [Commerce and Open Source](https://opensource.org/faq#category-commerce) by the Open Source Initiative
 - [Open Source Work](http://ryanbigg.com/2015/11/open-source-work) by Ryan Bigg
 - [Who Pays to Keep OS Software Working?](https://www.thoughtworks.com/mingle/news/2015/04/09/Paying-For-Open-Source.html) by Jen Quraishi
-- [GitHub Issues and Mental Health](http://bumpers.fm/e/audr171motkg00tb32sg) by Dave DeSandro
 - [The Path to Full-time Open Source](http://www.mikeperham.com/2014/10/01/the-path-to-full-time-open-source) by Mike Perham
 - [A handy guide to financial support for open source](https://github.com/nayafia/lemonade-stand) by Nadia Eghbal
 - [Elementary OS Lets Users Decide How Much To Pay](https://blog.elementary.io/payments/). See the comments for sensitivity around messaging.
